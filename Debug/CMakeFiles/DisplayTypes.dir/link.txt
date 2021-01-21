@@ -1,0 +1,1 @@
+/usr/bin/c++     -Wall -Wconversion -Werror=overflow -Wunused-variable -Wunused-function -Wunused -Wno-system-headers -Wno-deprecated -Woverloaded-virtual -Wwrite-strings -fstrict-aliasing -Wstrict-aliasing -D__STDC_LIMIT_MACROS -g -O0   CMakeFiles/DisplayTypes.dir/DisplayTypes.cpp.o  -o DisplayTypes -rdynamic 

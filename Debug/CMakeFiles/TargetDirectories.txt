@@ -1,0 +1,4 @@
+/home/pi/amh_devel/Greenfield/cool-cpp/Debug/CMakeFiles/rebuild_cache.dir
+/home/pi/amh_devel/Greenfield/cool-cpp/Debug/CMakeFiles/edit_cache.dir
+/home/pi/amh_devel/Greenfield/cool-cpp/Debug/CMakeFiles/EnumSizes.dir
+/home/pi/amh_devel/Greenfield/cool-cpp/Debug/CMakeFiles/DisplayTypes.dir

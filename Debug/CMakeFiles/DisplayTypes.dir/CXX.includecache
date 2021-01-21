@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/amh_devel/Greenfield/cool-cpp/DisplayTypes.cpp
+cstddef
+-
+stdexcept
+-
+cstring
+-
+ostream
+-
+iostream
+-
+stdint.h
+-
+
